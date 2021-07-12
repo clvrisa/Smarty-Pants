@@ -1,0 +1,4 @@
+Some ways you can secure your Unix/Linux system is to pick a good opertating system,
+make sure your server is up to date and current, enable auto updates, to use a firewall, 
+use strong passwords, generate SSH keys, disable booting from external devices, and 
+avoid unnecessary softwarre

@@ -1,0 +1,6 @@
+Advantages of TDD include: Less Code- The code you write is the simplest code possible, the code becomes easier 
+to check features and easier to maintain. Less debugging.
+
+Disadvantages of TDD are that tests help to seek out bugs, but they can not find bugs that you simply introduce within 
+the test code and in implementation code. Also tests need to be maintained because the code has got to. Whenever 
+requirements change, you would like to vary the code and tests. 

@@ -1,0 +1,8 @@
+if (brain!=empty)
+{
+    keepCoding();
+}
+else
+{
+    getCoffee();
+}
